@@ -14,7 +14,7 @@ My front-end developer portfolio site, built from scratch in a single HTML file.
 HTML5 · CSS3 · JavaScript · Google Fonts · CSS Custom Properties
 
 ## Live Site
-[View Live →](https://anthonyvallone.netlify.app/)
+[View Live →](https://anthonyvallone.netlify.app)
 
 ## Design
 Dark editorial aesthetic — custom CSS design system with no frameworks or templates.
